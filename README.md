@@ -38,7 +38,7 @@
 <a href="https://www.linkedin.com/in/han-lynn-aung/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/22801918/89466567-7218c880-d74a-11ea-8d27-c83eb8a7f49c.png" alt="https://www.linkedin.com/in/han-lynn-aung/" height="40" width="40" /></a>
 
-<a href="https://fb.com/https://www.facebook.com/hanlynnaung.net/" target="blank">
+<a href="https://www.facebook.com/hanlynnaung.net?mibextid=ZbWKwL" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/30932899/75636582-41bf8200-5c20-11ea-9b11-4cf0350ec812.png" alt="https://www.facebook.com/hanlynnaung.net/" height="40" width="40" /></a>
 
 <a href="https://discord.gg/natrix_h" target="blank">
