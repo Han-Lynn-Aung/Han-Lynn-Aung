@@ -45,7 +45,7 @@
 <img align="center" src="https://repository-images.githubusercontent.com/423180394/51fb7f2b-0bb0-4c3e-a06c-840fa3a910eb" alt="natrix_h" height="40" width="40" /></a>
 
 <a href="https://medium.com/@hanlynnaung1997" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" alt="@hanlynnaung1997" height="40" width="40" /></a>
+<img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="@hanlynnaung1997" height="40" width="40" /></a>
 
 </div>
 
