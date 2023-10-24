@@ -34,9 +34,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/han-lynn-aung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/han-lynn-aung/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hanlynnaung.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hanlynnaung.net/" height="30" width="40" /></a>
-<a href="https://medium.com/@hanlynnaung1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hanlynnaung1997" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/han-lynn-aung/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/han-lynn-aung/" height="30" width="40" /></a>
+  
+<a href="https://fb.com/https://www.facebook.com/hanlynnaung.net/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hanlynnaung.net/" height="30" width="40" /></a>
+
+<a href="https://medium.com/@hanlynnaung1997" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hanlynnaung1997" height="30" width="40" /></a>
 <a href="https://discord.gg/natrix_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="natrix_h" height="30" width="40" /></a>
 
 <div align = "center">
@@ -44,13 +49,13 @@
    <h2>📝 Blog Posts</h2>
   </header>
   <div>
-  <img src="https://miro.medium.com/v2/resize:fit:4800/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="react" align="center" width="10%"/> 
+  <img src="https://miro.medium.com/v2/resize:fit:4800/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="react" align="center" width="20%"/> 
     <a href="https://medium.com/@hanlynnaung1997/list/react-4d620c563513">
   <p>Learn about React and how to build interactive web applications.</p>
 
-  <img src="database.gif" alt="react" align="center" width="10%"/> 
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="react" align="center" width="20%"/> 
     <a href="https://medium.com/@hanlynnaung1997/list/database-6c1de6096352" >
-  <p>Learn about React and how to build interactive web applications.</p>
+  <p>Learn about databases and how to build interactive web applications.</p>
       
   </div>
 </div>
