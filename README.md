@@ -11,8 +11,6 @@
 <br>
 <img align="right" alt="Coding" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=han-lynn-aung&label=Profile%20views&color=0e75b6&style=flat)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=han-lynn-aung&label=Profile%20views&color=0e75b6&style=flat" alt="han-lynn-aung" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=han-lynn-aung" alt="han-lynn-aung" /></a> </p>
