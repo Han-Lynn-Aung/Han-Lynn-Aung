@@ -35,20 +35,20 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   
-<a href="mailto:hanlynnaung1997@gmail.com" target="blank">
-<img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="hanlynnaung1997@gmail.com" height = "30" width="40" /></a>
-  
 <a href="https://www.linkedin.com/in/han-lynn-aung/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/22801918/89466567-7218c880-d74a-11ea-8d27-c83eb8a7f49c.png" alt="https://www.linkedin.com/in/han-lynn-aung/" height="40" width="40" /></a>
-  
+
 <a href="https://fb.com/https://www.facebook.com/hanlynnaung.net/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/30932899/75636582-41bf8200-5c20-11ea-9b11-4cf0350ec812.png" alt="https://www.facebook.com/hanlynnaung.net/" height="40" width="40" /></a>
 
-<a href="https://medium.com/@hanlynnaung1997" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" alt="@hanlynnaung1997" height="40" width="40" /></a>
+<a href="mailto:hanlynnaung1997@gmail.com" target="blank">
+<img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="hanlynnaung1997@gmail.com" height = "40" width="40" /></a>
 
 <a href="https://discord.gg/natrix_h" target="blank">
 <img align="center" src="https://repository-images.githubusercontent.com/423180394/51fb7f2b-0bb0-4c3e-a06c-840fa3a910eb" alt="natrix_h" height="40" width="40" /></a>
+
+<a href="https://medium.com/@hanlynnaung1997" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" alt="@hanlynnaung1997" height="40" width="40" /></a>
 
 </div>
 
@@ -76,6 +76,13 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,javascript,typescript,express,firebase,mongodb,mysql,docker" /><br>
 </div> 
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Han-Lynn-Aung/Han-Lynn-Aung/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=han-lynn-aung&show_icons=true&locale=en&layout=compact" alt="han-lynn-aung" /></p>
 
