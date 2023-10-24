@@ -29,7 +29,7 @@
   
   📄 Know about my experiences [here](https://www.canva.com/design/DAFZuefj16I/Y1LyzENYZu82GBb7GHu3Cg/edit?utm_content=DAFZuefj16I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📝
  
-  ⚡ Fun fact: **Life is short : Always stay humble** 🌟
+  ⚡ Fun fact: **Defy yours limits!** 🌟
 </div>
 
 <h3 align="center">Connect with me:</h3>
