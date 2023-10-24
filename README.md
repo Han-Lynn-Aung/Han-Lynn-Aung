@@ -41,9 +41,6 @@
 <a href="https://fb.com/https://www.facebook.com/hanlynnaung.net/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/30932899/75636582-41bf8200-5c20-11ea-9b11-4cf0350ec812.png" alt="https://www.facebook.com/hanlynnaung.net/" height="40" width="40" /></a>
 
-<a href="mailto:hanlynnaung1997@gmail.com" target="blank">
-<img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="hanlynnaung1997@gmail.com" height = "40" width="40" /></a>
-
 <a href="https://discord.gg/natrix_h" target="blank">
 <img align="center" src="https://repository-images.githubusercontent.com/423180394/51fb7f2b-0bb0-4c3e-a06c-840fa3a910eb" alt="natrix_h" height="40" width="40" /></a>
 
