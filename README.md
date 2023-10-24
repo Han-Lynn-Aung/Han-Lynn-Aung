@@ -6,7 +6,7 @@
 <br>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&random=false&width=435&lines=A+passionate+fullstack+developer👨‍💻;++from+Myanamr🇲🇲" alt="Welcome!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&random=false&width=435&lines=A+passionate+fullstack+developer👨‍💻;++from+Myanmar🇲🇲" alt="Welcome!" /></a>
 </h3>
 <br>
 <img align="right" alt="Coding" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
