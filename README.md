@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Han-Lynn-Aung.Han-Lynn-Aung" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F7E8&center=true&vCenter=true&random=true&width=435&lines=Hi+there!👋;++I'm+Han+Lynn+Aung" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=02F7E8&center=true&vCenter=true&random=true&width=450&lines=Hi+there!👋;++I'm+Han+Lynn+Aung" alt="Hello!" /></a>
 </h1>
 <br>
 
-<h3 align="center"><a href="https://git.io/typing-svg">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&random=false&width=435&lines=A+passionate+fullstack+developer👨‍💻;++from+Myanamr🇲🇲" alt="Typing SVG" /></a></a>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=02F7E8&center=true&vCenter=true&random=false&width=435&lines=A+passionate+fullstack+developer👨‍💻;++from+Myanamr🇲🇲" alt="Welcome!" /></a>
 </h3>
 <br>
 <img align="right" alt="Coding" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
@@ -71,7 +71,7 @@
 <br>
 
 <h2 align="center">Languages and Tools:</h2>
-<br>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,javascript,typescript,express,firebase,mongodb,mysql,docker" /><br>
@@ -86,8 +86,24 @@
 </div>
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=han-lynn-aung&show_icons=true&locale=en&layout=compact" alt="han-lynn-aung" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<div align=center>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=han-lynn-aung&show_icons=true&locale=en" alt="han-lynn-aung" /></p>
+  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=han-lynn-aung&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="han lynn aung top languanges" />
+    
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=han-lynn-aung&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="han lynn aung stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=han-lynn-aung&" alt="han-lynn-aung" /></p>
+   <img width=450 src="https://streak-stats.demolab.com/?user=han-lynn-aung&count_private=true&theme=react&border_radius=10" alt="han lynn aung streak stats"/>
+  <br/>
+   
+</div>
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=450&height=90&lines=Much+appreciated+for+dropping+by%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Feel+free+to+hit+me+up+on+LinkedIn%F0%9F%8C%A0;Life+comprises+10%25+Circumstance%F0%9F%92%AA%F0%9F%8F%BC;+And+90%25+Our+Stance%F0%9F%8C%9F" alt="Grateful for your visit!" /></a>
+</h3>
+
+<br/>
+
