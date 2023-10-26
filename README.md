@@ -85,11 +85,12 @@
 <br/>
 <div align=center>
 
-  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=han-lynn-aung&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="han lynn aung top languanges" />
+  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=han-lynn-aung&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="han lynn aung top languanges" />
     
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=han-lynn-aung&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="han lynn aung stats" />
-
-   <img width=450 src="https://streak-stats.demolab.com/?user=han-lynn-aung&count_private=true&theme=react&border_radius=10" alt="han lynn aung streak stats"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=han-lynn-aung&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="han lynn aung stats" />
+ <br/>
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=han-lynn-aung&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=00EB19)](https://git.io/streak-stats)
   <br/>
    
 </div>
