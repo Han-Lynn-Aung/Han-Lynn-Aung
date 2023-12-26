@@ -68,8 +68,9 @@
 <h2 align="center">Languages and Tools:</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,mongodb,mysql,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,mongodb,mysql,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" /><br>
+    
 </div> 
 
 <div align="center">
