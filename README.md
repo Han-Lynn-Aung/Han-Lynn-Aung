@@ -19,7 +19,7 @@
   
   🔭 I’m currently working on **random stuffs** 🛠️  
   
-  🌱 I’m currently learning **Node.js and React.js** 📚
+  🌱 I’m currently learning **React.js** 📚
  
   💬 Ask me about **Java and Spring** 💡
   
@@ -68,8 +68,8 @@
 <h2 align="center">Languages and Tools:</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,javascript,typescript,express,firebase,mongodb,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,mongodb,mysql,docker" /><br>
 </div> 
 
 <div align="center">
