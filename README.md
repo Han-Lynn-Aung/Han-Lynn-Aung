@@ -86,7 +86,7 @@
 <br/>
 <div align=center>
 
-  <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=han-lynn-aung&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="han lynn aung top languanges" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=han-lynn-aung&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="han lynn aung top languanges" />
     
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=han-lynn-aung&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="han lynn aung stats" />
  <br/>
